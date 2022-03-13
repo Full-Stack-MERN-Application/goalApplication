@@ -1,0 +1,29 @@
+{
+  "name": "goalsetter_app",
+  "version": "1.0.0",
+  "description": "goalsetter project with Emilio and Raymond",
+  "main": "server,js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "server": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Full-Stack-MERN-Application/goalApplication.git"
+  },
+  "author": "Wesley Bernard - Raymond Dugan - Emilio Benavides",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Full-Stack-MERN-Application/goalApplication/issues"
+  },
+  "homepage": "https://github.com/Full-Stack-MERN-Application/goalApplication#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
