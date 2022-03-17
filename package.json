@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Full-Stack-MERN-Application/goalApplication.git"
   },
-  "author": "Wesley Bernard - Raymond Dugan - Emilio Benavides",
+  "author": "Wesley Bernard - Raymond Dugan",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Full-Stack-MERN-Application/goalApplication/issues"
